@@ -1,13 +1,11 @@
-# Bootstrap Project
-
-Bootstrap-RestaurantPage
-
+# Bootstrap Project2
 
 Overview
 
 👨‍💻 In this project I mastered Bootstrap 5 skills. I used mainly HTML, CSS and Bootstrap. You can see visual demo of the website below. The objective is to build out this real-like webpage and make it looking as professional as possible..
 
 ✨ Demo
+
 
 demo
 
@@ -31,18 +29,8 @@ Objective
 🎯
 
 The project covers;
-HTML / Semantic elements
-
-CSS Basics
-
-Bootstrap / Navbar Component - Card Component - Flex - Grid - Responsive Design
-
-Fslightbox.js
-
-Fontawesome
-
-At the end of the project, i will be able to;
-improve coding skills within HTML & CSS & Bootstrap-5
+HTML / Semantic elements CSS Basics Bootstrap / Navbar Component - Card Component - Flex - Grid - Responsive Design Fslightbox.js Fontawesome
+At the end of the project, i will be able to; improve coding skills within HTML & CSS & Bootstrap-5
 
 use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
@@ -53,6 +41,7 @@ How to Use the Project
 First download a code editor
 Second open the files : My Docs
 You can use this tutorial : VS Code tutorial
+
 Author
 👤 Mustafa MEHEL
 
