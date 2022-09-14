@@ -35,9 +35,7 @@ use git commands (push, pull, commit, add etc.) and Github as Version Control Sy
 ### How to Use the Project
 First download a code editor
 
-Second open the files : My Docs
-
-You can use this tutorial : VS Code tutorial
+You can use this tutorial : <a href="https://www.youtube.com/watch?v=fJEbVCrEMSE">VS Code tutorial</a>
 
 #### Author
 👤 Mustafa MEHEL
