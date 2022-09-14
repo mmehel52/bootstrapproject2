@@ -5,7 +5,9 @@
 👨‍💻 In this project I mastered Bootstrap 5 skills. I used mainly HTML, CSS and Bootstrap. You can see visual demo of the website below. The objective is to build out this real-like webpage and make it looking as professional as possible..
 
  [📍click here to see page](https://mmehel52.github.io/bootstrapproject2)
-
+ 
+## Demo
+![job_finder](job-finder.gif)
 ## Project Skeleton
 bootstrapproject2 (folder)
 
