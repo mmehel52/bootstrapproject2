@@ -7,7 +7,9 @@
  [📍click here to see page](https://mmehel52.github.io/bootstrapproject2)
  
 ## Demo
-![job_finder](job-finder.gif)
+<img src="https://github.com/mmehel52/bootstrapproject2/blob/main/btstrp.gif" width="900"/>
+
+
 ## Project Skeleton
 bootstrapproject2 (folder)
 
