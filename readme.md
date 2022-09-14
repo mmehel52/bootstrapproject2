@@ -6,7 +6,7 @@
 
 📍click here to see page  https://mmehel52.github.io/bootstrapproject2/
 
-#Project Skeleton
+## Project Skeleton
 Restaurant Page (folder)
 |
 |----readme.md             
@@ -17,10 +17,10 @@ Restaurant Page (folder)
       |----style.css
 |----lib
       |---fslightbox.js
-# Purpose of Project;
+## Purpose of Project;
 👨‍💻 The main aim of this project is to improve my HTML/CSS/Bootstrap-5/git commands (push, pull, commit, add etc.) skills and responsive design abilities.
 
-# Objective
+## Objective
 🎯
 
 The project covers;
@@ -29,7 +29,7 @@ At the end of the project, i will be able to; improve coding skills within HTML 
 
 use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
-Used in this project
+### Used in this project
 👉 HTML tags, Comments, CSS styling, Bootstrap-5 package,etc.
 
 #How to Use the Project
@@ -37,7 +37,7 @@ First download a code editor
 Second open the files : My Docs
 You can use this tutorial : VS Code tutorial
 
-# Author
+### Author
 👤 Mustafa MEHEL
 
 
