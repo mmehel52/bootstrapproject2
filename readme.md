@@ -4,7 +4,7 @@
 
 👨‍💻 In this project I mastered Bootstrap 5 skills. I used mainly HTML, CSS and Bootstrap. You can see visual demo of the website below. The objective is to build out this real-like webpage and make it looking as professional as possible..
 
- <a href="https://mmehel52.github.io/bootstrapproject2">📍click here to see page</a> 
+ [📍click here to see page](https://mmehel52.github.io/bootstrapproject2)
 
 ## Project Skeleton
 bootstrapproject2 (folder)
@@ -26,30 +26,29 @@ bootstrapproject2 (folder)
 ## Objective
  🎯
 ### The project covers;
-<ol style="list-style-type: disc"> 
-      <li>HTML / Semantic elements</li>
-      <li> CSS Basics</li>
-      <li> Bootstrap / Navbar Component - Card Component - Flex - Grid - Responsive Design</li>
-      <li>Fslightbox.js</li>
-      <liFontawesome</li>
-    </ol>
+
+- HTML / Semantic elements
+- CSS Basics * Bootstrap / Navbar Component - Card Component - Flex - Grid - Responsive Design
+- Fslightbox.js
+- Fontawesome
+ 
 
   
-### At the end of the project,
-i will be able to; improve coding skills within HTML & CSS & Bootstrap-5
+### At the end of the project,i will be able to;
+- improve coding skills within HTML & CSS & Bootstrap-5
 
-use git commands (push, pull, commit, add etc.) and Github as Version Control System.
+- use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
 ### Used in this project
 👉 HTML tags, Comments, CSS styling, Bootstrap-5 package,etc.
 
 ##  How to Use the Project
-First download a code editor
+* First download a code editor
 
-You can use this tutorial : <a href="https://www.youtube.com/watch?v=fJEbVCrEMSE">VS Code tutorial</a>
+* You can use this tutorial : [VS Code tutorial](https://www.youtube.com/watch?v=fJEbVCrEMSE)
 
 ## Author
 👤 Mustafa MEHEL
 
 
-Github:<a href="https://github.com/mmehel52">mmehel52</a>
+Github: [mmehel52](https://github.com/mmehel52)
