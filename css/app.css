@@ -68,9 +68,46 @@ section#instructors .socials i:hover {
 /*! ----------- 4- STUDENTS SECTION ----------*/
 
 /*! ----------- 5- COURSES SECTION ----------- */
+.tab-pane img {
+  height: 20rem;
+  width: 20rem !important;
+}
+
+.nav-pills .nav-item .nav-link.active {
+  background-color: blueviolet;
+}
 
 /*! ----------- 6- CONTACT SECTION ------------ */
-
+#location iframe {
+  width: 100%;
+}
+.form-float textarea {
+  resize: none;
+  height: 10vh;
+}
 /** -------------- UP-BUTTON ------------------ */
+.up-btn {
+  color: white;
+  position: fixed;
+  background-color: blueviolet;
+  width: 50px;
+  height: 50px;
 
+  bottom: 1rem;
+  right: 1rem;
+  text-align: center;
+  padding: 0.6rem;
+  font-size: 1.2rem;
+}
+.up-btn:hover {
+  color: black;
+  transform: scale(1.1);
+}
 /*! --------------- 7- FOOTER ----------------- */
+footer .fab {
+  transition: all 0.8s;
+}
+footer .fab:hover {
+  color: blueviolet !important;
+  transform: scale(1.5) !important;
+}
