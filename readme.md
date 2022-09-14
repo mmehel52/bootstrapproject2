@@ -4,7 +4,7 @@
 
 👨‍💻 In this project I mastered Bootstrap 5 skills. I used mainly HTML, CSS and Bootstrap. You can see visual demo of the website below. The objective is to build out this real-like webpage and make it looking as professional as possible..
 
-📍click here to see page  https://mmehel52.github.io/bootstrapproject2/
+ <a href="https://mmehel52.github.io/bootstrapproject2">📍click here to see page</a> 
 
 ## Project Skeleton
 Restaurant Page (folder)
@@ -32,13 +32,15 @@ use git commands (push, pull, commit, add etc.) and Github as Version Control Sy
 ### Used in this project
 👉 HTML tags, Comments, CSS styling, Bootstrap-5 package,etc.
 
-#How to Use the Project
+### How to Use the Project
 First download a code editor
+
 Second open the files : My Docs
+
 You can use this tutorial : VS Code tutorial
 
-### Author
+#### Author
 👤 Mustafa MEHEL
 
 
-Github: @mmehel52
+Github:<a href="https://github.com/mmehel52">mmehel52</a>
