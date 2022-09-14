@@ -11,18 +11,9 @@
 
 
 ## Project Skeleton
-bootstrapproject2 (folder)
 
-|
+<img src="https://github.com/mmehel52/bootstrapproject2/blob/main/img/11.png" width="900"/>
 
-|----readme.md             
-|----img            
-|----solution
-        |----index.html  
-|----css      
-      |----style.css
-|----lib
-      |---fslightbox.js
       
 ## Purpose of Project;
 👨‍💻 The main aim of this project is to improve my HTML/CSS/Bootstrap-5/git commands (push, pull, commit, add etc.) skills and responsive design abilities.
